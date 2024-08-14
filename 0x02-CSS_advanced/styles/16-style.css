@@ -284,7 +284,7 @@ a:active {
     font-weight: var(--font-weight-bold);
 }
 
-/* Container styling */
+/* Container */
 .container {
     width: 960px;
     margin-left: auto;
