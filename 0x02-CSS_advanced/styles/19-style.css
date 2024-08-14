@@ -304,7 +304,6 @@ a:active {
     color: var(--section-title-color);
 }
 
-/* Reset color for elements with class section-tagline */
 .section-tagline {
     color: var(--color-primary);
     font-family: var(--font-family-title);
@@ -381,7 +380,7 @@ ul.row {
 }
 
 /* Footer ul text alignment */
-footer ul {
+.footer ul {
     text-align: right;
 }
 
