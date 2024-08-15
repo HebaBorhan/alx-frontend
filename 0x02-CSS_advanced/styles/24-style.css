@@ -300,7 +300,7 @@ a:active {
 /* Target a inside card-services */
 .card-services a {
     display: block;
-    padding: calc(2 * 1rem);
+    padding: 2rem;
     background-color: var(--color-light-grey);
     text-decoration: none;
 }
